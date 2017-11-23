@@ -1,0 +1,2 @@
+# fred
+optimistic about programing 
